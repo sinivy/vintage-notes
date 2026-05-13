@@ -61,6 +61,3 @@ Mais do que um aplicativo de notas, o Vintage Notes busca criar uma sensação: 
 <div align="center">
   Desenvolvido com ♡ por <b>Sinivy</b>
 </div>
-<div align="center">
-  Desenvolvido com ♡ por <b>Sinivy</b>
-</div>
